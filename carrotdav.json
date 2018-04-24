@@ -1,0 +1,11 @@
+{
+  "homepage": "http://rei.to/carotdav_en.html",
+  "version": "1.15.2",
+  "license": "Freeware",
+  "url": "http://rei.to/CarotDAV1.15.2.portable.zip",
+  "hash": "50b6333f6451c369a3ccc5699392756de217e9aa1b3a7ea5b7dd6e26d83a35ee",
+  "bin": [
+    "CarotDAV/CarotDAV.exe",
+    "CarotDAV/CarotDAVC.exe"
+  ]
+} 
